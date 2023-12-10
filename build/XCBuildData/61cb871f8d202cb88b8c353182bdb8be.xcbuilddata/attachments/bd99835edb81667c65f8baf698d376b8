@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitUITests.build/Objects-normal/arm64/sirikitUITests-master.dia",
+    "emit-module-dependencies" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitUITests.build/Objects-normal/arm64/sirikitUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitUITests.build/Objects-normal/arm64/sirikitUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitUITests.build/Objects-normal/arm64/sirikitUITests-master.swiftdeps"
+  },
+  "/Users/davyphilippe/Documents/sirikit/sirikitUITests/sirikitUITests.swift" : {
+    "const-values" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitUITests.build/Objects-normal/arm64/sirikitUITests.swiftconstvalues",
+    "dependencies" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitUITests.build/Objects-normal/arm64/sirikitUITests.d",
+    "diagnostics" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitUITests.build/Objects-normal/arm64/sirikitUITests.dia",
+    "index-unit-output-path" : "/sirikit.build/Debug-iphonesimulator/sirikitUITests.build/Objects-normal/arm64/sirikitUITests.o",
+    "llvm-bc" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitUITests.build/Objects-normal/arm64/sirikitUITests.bc",
+    "object" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitUITests.build/Objects-normal/arm64/sirikitUITests.o",
+    "swift-dependencies" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitUITests.build/Objects-normal/arm64/sirikitUITests.swiftdeps",
+    "swiftmodule" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitUITests.build/Objects-normal/arm64/sirikitUITests~partial.swiftmodule"
+  },
+  "/Users/davyphilippe/Documents/sirikit/sirikitUITests/sirikitUITestsLaunchTests.swift" : {
+    "const-values" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitUITests.build/Objects-normal/arm64/sirikitUITestsLaunchTests.swiftconstvalues",
+    "dependencies" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitUITests.build/Objects-normal/arm64/sirikitUITestsLaunchTests.d",
+    "diagnostics" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitUITests.build/Objects-normal/arm64/sirikitUITestsLaunchTests.dia",
+    "index-unit-output-path" : "/sirikit.build/Debug-iphonesimulator/sirikitUITests.build/Objects-normal/arm64/sirikitUITestsLaunchTests.o",
+    "llvm-bc" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitUITests.build/Objects-normal/arm64/sirikitUITestsLaunchTests.bc",
+    "object" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitUITests.build/Objects-normal/arm64/sirikitUITestsLaunchTests.o",
+    "swift-dependencies" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitUITests.build/Objects-normal/arm64/sirikitUITestsLaunchTests.swiftdeps",
+    "swiftmodule" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitUITests.build/Objects-normal/arm64/sirikitUITestsLaunchTests~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'sirikitUITests' in project 'sirikit'
+➜ Explicit dependency on target 'sirikit' in project 'sirikit'
+Target 'sirikitTests' in project 'sirikit'
+➜ Explicit dependency on target 'sirikit' in project 'sirikit'
+Target 'sirikit' in project 'sirikit' (no dependencies)

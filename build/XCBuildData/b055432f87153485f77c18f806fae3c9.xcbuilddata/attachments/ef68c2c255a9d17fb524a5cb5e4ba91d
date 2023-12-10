@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitTests.build/Objects-normal/arm64/sirikitTests-master.dia",
+    "emit-module-dependencies" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitTests.build/Objects-normal/arm64/sirikitTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitTests.build/Objects-normal/arm64/sirikitTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitTests.build/Objects-normal/arm64/sirikitTests-master.swiftdeps"
+  },
+  "/Users/davyphilippe/Documents/sirikit/sirikitTests/sirikitTests.swift" : {
+    "const-values" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitTests.build/Objects-normal/arm64/sirikitTests.swiftconstvalues",
+    "dependencies" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitTests.build/Objects-normal/arm64/sirikitTests.d",
+    "diagnostics" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitTests.build/Objects-normal/arm64/sirikitTests.dia",
+    "index-unit-output-path" : "/sirikit.build/Debug-iphonesimulator/sirikitTests.build/Objects-normal/arm64/sirikitTests.o",
+    "llvm-bc" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitTests.build/Objects-normal/arm64/sirikitTests.bc",
+    "object" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitTests.build/Objects-normal/arm64/sirikitTests.o",
+    "swift-dependencies" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitTests.build/Objects-normal/arm64/sirikitTests.swiftdeps",
+    "swiftmodule" : "/Users/davyphilippe/Documents/sirikit/build/sirikit.build/Debug-iphonesimulator/sirikitTests.build/Objects-normal/arm64/sirikitTests~partial.swiftmodule"
+  }
+}
